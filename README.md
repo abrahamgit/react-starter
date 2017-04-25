@@ -17,3 +17,11 @@ Setup
 npm install   '
 	      '
 '''''''''''''''
+
+Compile
+--------
+
+--------
+
+'''''''
+npm compil
